@@ -1,1 +1,2 @@
 # Lab-2
+The code will read data from a spotify csv file and determine how many times each artist appears on the list. Using the split method it converts the csv file to a 2d array. From there a new array is created that contains only unique artist and another array that counts how many times each one appears. These two arrays are then used to create a new 2d array that is exported to a file. It will then export the results to a new file. 
